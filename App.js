@@ -7,6 +7,8 @@ class App extends Component {
     return (
       <div className="App">
         My App samo da se proba preko github nesto!!
+
+        sga od rabota nesto postujem kao unutra!!
         <Projects />
       </div>
     );
